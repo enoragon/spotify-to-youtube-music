@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "spotify",
     "name": "Spotify-to-YTM",
     "slug": "Spotify-to-YTM",
     "version": "1.0.0",
